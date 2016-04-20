@@ -19,8 +19,8 @@
 	"instructions": "app/java_instructions.md",
 	"source": {
 		"scmType": "git",
-		"url": ".git",
-		"appPath": "app"
+		"url": "https://github.com/IBM-Bluemix/java-cloudant.git",
+		"appPath": ""
 	},
 	"docURL": "/#starters/java-cloudant/index.html#java-cloudant",
 	"system_tags": ["ibm_created"],
