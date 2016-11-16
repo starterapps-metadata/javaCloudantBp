@@ -8,7 +8,7 @@
 	"description": "Use the Cloudant NoSQL DB service with the 'Liberty for Java™' runtime.",
 	"categories": ["java"],
 	"type": "web",
-	"version": "1.0",
+	"version": "1.1",
 	"smallIcon": "java_cloudant_small.png",
 	"icon": "java_cloudant_icon.png",
 	"largeIcon": "java_cloudant_large.png",
