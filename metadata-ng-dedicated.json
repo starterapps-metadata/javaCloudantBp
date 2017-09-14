@@ -22,7 +22,7 @@
 		"url": "https://github.com/IBM-Bluemix/java-cloudant.git",
 		"appPath": ""
 	},
-	"docURL": "/#starters/java-cloudant/index.html#java-cloudant",
+	"docURL": "/#runtimes/liberty/index.html#liberty",
 	"system_tags": ["ibm_created"],
 	"runtime_template_id": "javaHelloWorld",
 	"runtime_id": "d70d427c-eb92-43a7-a3fa-67e9885ad044",
